@@ -13,5 +13,5 @@ configure the firewall
 secure the SSH
 enable AppArmor
 enable Fail2ban
-Test for all aunthenticaton like the SSH and root login
+Test for all authenticaton like the SSH and root login
 Then minimize cost
